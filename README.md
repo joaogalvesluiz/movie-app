@@ -3,7 +3,7 @@
 check on: https://search-movieapp.netlify.app
 
 
-### Features Used - With the following features
+### Features Used
 
    * Best Movies
    * Rating
